@@ -1,0 +1,42 @@
+.images {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgb(253, 144, 66);
+  }
+  
+  .caracters {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+  }
+  
+  nav {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  div .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  body form {
+    width: 500px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+  }
+  
+  body form .search {
+    text-align: center;
+    border-color: #f60606;
+  }
+  
+  body {
+    background: rgb(85, 60, 42);
+  }
